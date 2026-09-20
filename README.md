@@ -12,7 +12,7 @@
 
 Combining dense semantic vector representations (`all-MiniLM-L6-v2`), fine-tuned machine learning classification (Logistic Regression with Stratified K-Fold tuning), a dynamic risk scoring engine, and a cybersecurity dashboard, SentinelAI acts as a real-time perimeter defense for your LLM stack.
 
----
+--
 
 ## 📑 Table of Contents
 
