@@ -16,7 +16,7 @@ Combining dense semantic vector representations (`all-MiniLM-L6-v2`), fine-tuned
 
 ## 📑 Table of Contents
 
-- [Key Features](#-key-features)
+- [Key Features](#-key-features) 
 - [System Architecture](#-system-architecture)
 - [Project Structure](#-project-structure)
 - [Risk Scoring & Policy Matrix](#-risk-scoring--policy-matrix)
