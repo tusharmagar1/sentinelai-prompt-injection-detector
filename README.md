@@ -267,4 +267,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👤 Author
 
 **Tushar Magar**  
-- GitHub: [@tusharmagar1](https://github.com/tusharmagar1)
+- GitHub: [@tusharmagar1](https://github.com/tusharmagar1) 
