@@ -8,7 +8,6 @@
 [![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-all--MiniLM--L6--v2-orange)](https://www.sbert.net/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
-
 **SentinelAI** is a security firewall and AI safety engine engineered to detect and neutralize **Prompt Injection**, **Jailbreak**, and **Adversarial System Override** attacks directed at Large Language Models (LLMs) and Generative AI applications.
 
 Combining dense semantic vector representations (`all-MiniLM-L6-v2`), fine-tuned machine learning classification (Logistic Regression with Stratified K-Fold tuning), a dynamic risk scoring engine, and a cybersecurity dashboard, SentinelAI acts as a real-time perimeter defense for your LLM stack.
