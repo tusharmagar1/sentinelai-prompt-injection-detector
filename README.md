@@ -262,7 +262,7 @@ SentinelAI provides defense-in-depth against prompt injection and jailbreak tech
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
+---  
 
 ## 👤 Author
 
